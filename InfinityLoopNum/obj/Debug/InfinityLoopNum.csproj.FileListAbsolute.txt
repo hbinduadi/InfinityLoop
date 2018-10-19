@@ -1,0 +1,10 @@
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\bin\Debug\InfinityLoopNum.exe.config
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\bin\Debug\InfinityLoopNum.exe
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\bin\Debug\InfinityLoopNum.pdb
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\obj\Debug\InfinityLoopNum.csprojAssemblyReference.cache
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\obj\Debug\InfinityLoopNum.Form1.resources
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\obj\Debug\InfinityLoopNum.Properties.Resources.resources
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\obj\Debug\InfinityLoopNum.csproj.GenerateResource.cache
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\obj\Debug\InfinityLoopNum.csproj.CoreCompileInputs.cache
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\obj\Debug\InfinityLoopNum.exe
+C:\CC6\Throwaway\numbersquare\InfinityLoopNum\obj\Debug\InfinityLoopNum.pdb
